@@ -9,7 +9,6 @@ import {
   View,
 } from 'react-native';
 
-
 const App = () => {
   const [text, onChangeText] = React.useState("");
   const Tab = createMaterialBottomTabNavigator();
