@@ -8,7 +8,6 @@ import {
   Text,
   View,
 } from 'react-native';
-import { createMaterialBottomTabNavigator } from '@react-navigation/material-bottom-tabs';
 
 
 const App = () => {
